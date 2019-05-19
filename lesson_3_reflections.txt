@@ -6,3 +6,6 @@ Because it could conflict with something you are working on at a given time. If 
 you are working on, it could create bugs or not allow your code to run properly, but if you aren't aware it updated you might not be 
 able to figure out why. It's easier to introduce changes when you're ready because it allows you to focus in on the update as the 
 source of a new bug (assuming the code you already had was functioning without bugs)
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are a copy of a remote repository, a clone is a local copy of a remote repository, and a branch is version of a file

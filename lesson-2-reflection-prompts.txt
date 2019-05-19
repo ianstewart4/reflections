@@ -10,10 +10,15 @@ change?
 	the tutorial, but I think if you make a logical change to two separate files,
 	you could add one to the staging area, commit, then add the other and commit 
 	that one, leaving a separate message describing the change for each one.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	You could use it for developing a feature of a program while still developing the 
+	program in a different environment where changes to the feature or program won't
+	affect eachother, yet progress can still be made on each.
 
 How do the diagrams help you visualize the branch structure?
+	It allows you to visualize the parent of each commit and branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
