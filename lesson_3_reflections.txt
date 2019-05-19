@@ -1,2 +1,8 @@
 When would you want to keep a remote repository rather than keeping all your work local?
 Keeping all your files locally can be risky. If anything happens to the computer it is stored on, everything might be lost. 
+
+Why might you want to always pull changes manually rather than have Git automatically stay up-to-date with your remote repository?
+Because it could conflict with something you are working on at a given time. If someone in your group commits a change to a function 
+you are working on, it could create bugs or not allow your code to run properly, but if you aren't aware it updated you might not be 
+able to figure out why. It's easier to introduce changes when you're ready because it allows you to focus in on the update as the 
+source of a new bug (assuming the code you already had was functioning without bugs)
